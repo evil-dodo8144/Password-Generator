@@ -1,2 +1,10 @@
 # Password Generator
 An interface to give the user possibly strong password. Even it can tell either the given password is strong or weak.
+Here we have used :
+1. HTML
+2. CSS
+3. Javascript
+
+
+// here is the link to visit the site:
+https://evil-dodo8144.github.io/Password-Generator/
